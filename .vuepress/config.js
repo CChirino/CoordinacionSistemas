@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Coordinación de Sistemas',
     description: 'Solventamos tus dudas con mi UNE 2.0',
+    dest: 'pages',
     themeConfig: { 
         nav:[
             {text: 'Inicio', link:'/'},
