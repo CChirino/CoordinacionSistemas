@@ -6,7 +6,7 @@ media_folder: ".vuepress/public/"
 public_folder: "../pages/"
 collections:
   - name: "guia" # Used in routes, e.g., /admin/collections/blog
-    label: "guia" # Used in the UI
+    label: "Entradas" # Used in the UI
     folder: "guia" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
