@@ -1,0 +1,22 @@
+{
+    "name": "Escuela de Coordinacion",
+    "version": "1.0.0",
+    "description": "Solventamos tus dudas con mi UNE 2.0",
+    "license": "Universidad Nueva Esparta",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs:dev": "vuepress dev",
+        "docs:build": "vuepress build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CChirino/CoordinacionSistemas"
+    },
+    "keywords": [],
+    "author": "Christopher Chirino",
+    "homepage": "https://github.com/CChirino/CoordinacionSistemas#readme",
+    "devDependencies": {
+        "vuepress": "^0.14.8"
+    }
+    }
