@@ -1,2 +1,0 @@
-    publish = pages
-    command = npm run docs:build
