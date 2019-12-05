@@ -1,3 +1,7 @@
+---
+title: Inicio
+description: Que hacer para empezar
+---
 # Inicio
 
 En esta plataforma se busca explicar de manera sencilla como funcionan los modulos, como crearlo, modificarlos
