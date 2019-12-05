@@ -7,7 +7,9 @@ description: >-
   grupo los suguientes:
 image: /../pages/acero-inoxidable-2.jpg
 ---
-# 
+# Grupos
+
+En este caso tenemos muchas personas que utilizan la plataforma como lo son los administrativos, profesores,estudiantes, directores de escuela y decanos. Cada uno de estos tiene accesos a modulos en especifico los cuales son por grupo los suguientes:
 
 ## Estudiante
 
