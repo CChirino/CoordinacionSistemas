@@ -1,3 +1,7 @@
+---
+title: Módulos
+description: Como crear modulos
+---
 # Módulo
 
 Como podemos observar en todo el Sistema MiUNE2.0 se compone de distintos módulos específicos para cada tipo de grupo.
