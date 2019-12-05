@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yonkov/Vuepress-project
+  repo: CChirino/CoordinacionSistemas
   branch: master
 media_folder: ".vuepress/public/"
 public_folder: "../pages/"
