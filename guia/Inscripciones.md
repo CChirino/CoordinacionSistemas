@@ -1,3 +1,7 @@
+---
+title: Inscripciones
+description: Proceso de inscripciones
+---
 # Inscripciones
 
 Este es un proceso que se realiza todos los cuatrimestres y se prepara por lo general un mes antes para habilitar y realizar las respectivas pruebas para un funcionamiento correcto dentro de este proceso que se realiza constantemente.
