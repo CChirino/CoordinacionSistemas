@@ -13,7 +13,13 @@ module.exports = {
             '/guia/':[
             '',
             'Módulo',
-            'Grupos',
+            'Consultas',
+            'Mantenimiento',
+            'Profile',
+            'Reports',
+            'Statics',
+            'Transactions',
+            'Modalidad',
             'Inscripciones'
             ],
             '/modulo_nuevo/': [
