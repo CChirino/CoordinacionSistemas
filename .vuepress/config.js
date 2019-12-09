@@ -26,7 +26,8 @@ module.exports = {
             ''
             ],
             '/nuevo/': [
-            ''
+            '',
+            'Que_Aprender'
             ],
             displayAllHeaders: true
         }
